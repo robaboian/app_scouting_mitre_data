@@ -168,7 +168,7 @@ CONFIG = {
         },
         "renames": RENAMES_TABLA,
     },
-    "Delanteros": {
+    "Delantero centro": {
         "excel": "data/final_delanteros_todos2026.xlsx",
         "radar": RADAR_COLS,
         "subpuesto": None,
