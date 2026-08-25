@@ -21,11 +21,11 @@ st.title("🔍 Explorador global de jugadores")
 ARCHIVOS_POR_PUESTO = {
     "Defensores centrales": "data/final_defensoresCentrales_todos2026.xlsx",
     "Laterales": "data/final_Laterales_todos2026.xlsx",
-    "Volante contención": "data/final_volanteContencion_todos2026.xlsx",
+    "Volante posicional": "data/final_volanteContencion_todos2026.xlsx",
     "Interior contención": "data/final_interiorContencion_todos2026.xlsx",
     "Interior ofensivo": "data/final_interiorOfensivo_todos2026.xlsx",
     "Volante ofensivo": "data/final_volanteOfensivo_todos2026.xlsx",
-    "Media punta": "data/final_mediapunta_todos2026.xlsx",
+    "Mediapunta": "data/final_mediapunta_todos2026.xlsx",
     "Extremos": "data/final_extremos_todos2026.xlsx",
     "Delanteros": "data/final_delanteros_todos2026.xlsx",
 }
