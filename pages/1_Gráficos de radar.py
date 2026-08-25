@@ -126,7 +126,7 @@ CONFIG = {
         },
         "renames": RENAMES_TABLA,
     },
-    "Volante contención": {
+    "Volante posicional": {
         "excel": "data/final_volanteContencion_todos2026.xlsx",
         "radar": RADAR_COLS,
         "subpuesto": None,
@@ -150,7 +150,7 @@ CONFIG = {
         "subpuesto": None,
         "renames": RENAMES_TABLA,
     },
-    "Media punta": {
+    "Mediapunta": {
         "excel": "data/final_mediapunta_todos2026.xlsx",
         "radar": RADAR_COLS,
         "subpuesto": None,
