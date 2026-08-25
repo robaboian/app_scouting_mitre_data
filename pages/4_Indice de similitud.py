@@ -46,7 +46,7 @@ ARCHIVOS_POR_PUESTO = {
     "Volante ofensivo": "data/final_volanteOfensivo_todos2026.xlsx",
     "Mediapunta": "data/final_mediapunta_todos2026.xlsx",
     "Extremos": "data/final_extremos_todos2026.xlsx",
-    "Delanteros": "data/final_delanteros_todos2026.xlsx",
+    "Delantero centro": "data/final_delanteros_todos2026.xlsx",
 }
 
 PUESTOS = list(ARCHIVOS_POR_PUESTO.keys())
