@@ -100,15 +100,15 @@ PUESTOS = [
 # ✍️ Editá este diccionario cuando subas o actualices una base.
 # Formato sugerido: DD/MM/AAAA
 ACTUALIZACION_PUESTOS = {
-    "Defensor central": "20/10/2026",
-    "Lateral": "20/10/2026",
-    "Volante contención": "20/10/2026",
-    "Interior contención": "20/10/2026",
-    "Interior ofensivo": "20/10/2026",
-    "Volante ofensivo": "20/10/2026",
-    "Media punta": "20/10/2026",
-    "Extremo": "20/10/2026",
-    "Delantero": "20/10/2026",
+    "Defensor central": "27/10/2026",
+    "Lateral": "27/10/2026",
+    "Volante contención": "27/10/2026",
+    "Interior contención": "27/10/2026",
+    "Interior ofensivo": "27/10/2026",
+    "Volante ofensivo": "27/10/2026",
+    "Media punta": "27/10/2026",
+    "Extremo": "27/10/2026",
+    "Delantero": "27/10/2026",
 }
 
 # Garantizamos que existan todas las claves y respetamos el orden de PUESTOS
